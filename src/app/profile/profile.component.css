@@ -8,6 +8,7 @@
 
 .nbtn{
     display: flex;
+    gap: 30px;
 
 }
 
@@ -16,4 +17,9 @@ button{
     height: 80px;
     border-radius: 50%;
     background-color: yellow;
+}
+
+.count{
+    border: 2px solid black;
+    padding: 10px 40px 10px 40px;
 }
